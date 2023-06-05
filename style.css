@@ -57,7 +57,7 @@ nav button{
 .header-content{
     position: relative;
     top: 15%;
-    left: 50%;
+     left: 50%;
     transform: translate(-50%,50%);
     text-align: center;
     margin-top: 20px;
@@ -100,7 +100,7 @@ margin-left: 130px;
     padding: 15px 30px;
 }
 
-/*...............features....................*/
+
 
 .features{
     padding: 50px 12%;
@@ -132,7 +132,7 @@ margin-left: 130px;
     margin-bottom: 20px;
 }
 
-/*............faq............*/
+
 .faq{
     padding: 10px 12%;
     text-align: center;
@@ -198,8 +198,7 @@ input[type="radio"]{
 .faq small{
     font-size: 13px;
 }
-/*.............footer........
-.....*/
+
 .footer{
     padding: 50px 15% 10px;
     border-top: 6px solid #333;
@@ -239,9 +238,8 @@ input[type="radio"]{
     margin-top: 20px;
     margin-bottom: 10px;
 }
-}
 
 
 
 
-}
+
